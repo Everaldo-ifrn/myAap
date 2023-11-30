@@ -1,0 +1,15 @@
+-> frontEnd
+-> backEnd
+
+
+-> python -m venv meuapp
+-> .\meuapp\Scripts\activate.bat
+-> .\meuapp\Scripts\deactivate.bat
+-> pip install flask
+-> .\meuapp\Scripts\pip.exe install flask
+-> .\meuapp\Scripts\flask.exe run
+
+<!--
+        {{ usoVariave l}}
+    {% comando ou atribuição %}
+    -->
